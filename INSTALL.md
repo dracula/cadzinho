@@ -1,19 +1,11 @@
-### [Foobar](https://foobar.com)
+### [CadZinho](https://github.com/zecruel/CadZinho)
 
-#### Install using Git
+Dracula theme cames with [CadZinho](https://github.com/zecruel/CadZinho).
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+To install [CadZinho](https://github.com/zecruel/CadZinho), see [https://github.com/zecruel/CadZinho/wiki/Installation](https://github.com/zecruel/CadZinho/wiki/Installation).
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Do this:
+![Activate](./activate.png)
+2. Boom! It's working ✨
