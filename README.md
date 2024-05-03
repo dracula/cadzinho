@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/CadZinho](https://draculatheme.com/cadzinho).
+All instructions can be found at [draculatheme.com/CadZinho](https://draculatheme.com/CadZinho).
 
 ## Team
 
