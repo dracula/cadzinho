@@ -7,5 +7,5 @@ To install [CadZinho](https://github.com/zecruel/CadZinho), see [https://github.
 #### Activating theme
 
 1. Do this:
-![Activate](./activate.png)
+   ![Activate](./activate.png)
 2. Boom! It's working ✨
